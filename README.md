@@ -7,13 +7,7 @@ Machine Learning Integration: Utilizes a Random Forest Classifier for course pre
 Customizable Preferences: Users can select their interests from various categories to receive personalized recommendations.
 Data Training Module: Automatically trains or retrains the model using labeled datasets.
 Categorized Features: Covers diverse categories such as Arts, Technology, Sciences, Medicine, Languages, and more.
-Usage
-Run the application:
 
-bash
-Copy
-Edit
-python app.py
 Use the GUI to:
 
 Select your interests from various categories.
